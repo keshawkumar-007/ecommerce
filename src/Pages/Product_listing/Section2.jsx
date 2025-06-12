@@ -123,7 +123,7 @@ const Section2 = () => {
                 <a href="product_detail.html" className="product-item-title"><span>Short Sleeve Blouse</span></a>
                 <p className="product-item-price">
                   <span className="product-price-amount">
-                    <span className="product-price-currency-symbol">$</span>59.99
+                    <span className="product-price-currency-symbol">Rs</span>499
                   </span>
                 </p>
                 <div className="product-rating">
@@ -167,10 +167,10 @@ const Section2 = () => {
                 <p className="product-item-price">
                   <span className="product-price-amount">
                     <del>
-                      <span className="product-price-currency-symbol">$</span>59.99
+                      <span className="product-price-currency-symbol">Rs</span>599
                     </del>
                     <ins>
-                      <span className="product-price-currency-symbol">$</span>39.99
+                      <span className="product-price-currency-symbol">Rs</span>399
                     </ins>
                   </span>
                 </p>
@@ -214,7 +214,7 @@ const Section2 = () => {
                 <a href="product_detail.html" className="product-item-title"><span>Short Sleeve Blouse</span></a>
                 <p className="product-item-price">
                   <span className="product-price-amount">
-                    <span className="product-price-currency-symbol">$</span>59.99
+                    <span className="product-price-currency-symbol">Rs</span>599
                   </span>
                 </p>
                 <div className="product-rating">
@@ -257,11 +257,11 @@ const Section2 = () => {
                 <a href="product_detail.html" className="product-item-title"><span>Short Sleeve Blouse</span></a>
                 <p className="product-item-price">
                   <span className="product-price-amount">
-                    <span><span className="product-price-currency-symbol">$</span>59.99</span>
+                    <span><span className="product-price-currency-symbol">Rs</span>599</span>
                   </span>
                   –
                   <span className="product-price-amount">
-                    <span><span className="product-price-currency-symbol">$</span>84.99</span>
+                    <span><span className="product-price-currency-symbol">Rs</span>899</span>
                   </span>
                 </p>
                 <div className="product-rating">
@@ -304,7 +304,7 @@ const Section2 = () => {
                 <a href="product_detail.html" className="product-item-title"><span>Short Sleeve Blouse</span></a>
                 <p className="product-item-price">
                   <span className="product-price-amount">
-                    <span className="product-price-currency-symbol">$</span>59.99
+                    <span className="product-price-currency-symbol">Rs</span>599
                   </span>
                 </p>
                 <div className="product-rating">
@@ -347,7 +347,7 @@ const Section2 = () => {
                 <a href="product_detail.html" className="product-item-title"><span>Short Sleeve Blouse</span></a>
                 <p className="product-item-price">
                   <span className="product-price-amount">
-                    <span className="product-price-currency-symbol">$</span>59.99
+                    <span className="product-price-currency-symbol">Rs</span>599
                   </span>
                 </p>
                 <div className="product-rating">
@@ -390,7 +390,7 @@ const Section2 = () => {
                 <a href="product_detail.html" className="product-item-title"><span>Short Sleeve Blouse</span></a>
                 <p className="product-item-price">
                   <span className="product-price-amount">
-                    <span className="product-price-currency-symbol">$</span>59.99
+                    <span className="product-price-currency-symbol">Rs</span>599
                   </span>
                 </p>
                 <div className="product-rating">
@@ -433,7 +433,7 @@ const Section2 = () => {
                 <a href="product_detail.html" className="product-item-title"><span>Short Sleeve Blouse</span></a>
                 <p className="product-item-price">
                   <span className="product-price-amount">
-                    <span className="product-price-currency-symbol">$</span>59.99
+                    <span className="product-price-currency-symbol">Rs</span>599
                   </span>
                 </p>
                 <div className="product-rating">
@@ -476,7 +476,7 @@ const Section2 = () => {
                 <a href="product_detail.html" className="product-item-title"><span>Short Sleeve Blouse</span></a>
                 <p className="product-item-price">
                   <span className="product-price-amount">
-                    <span className="product-price-currency-symbol">$</span>59.99
+                    <span className="product-price-currency-symbol">Rs</span>599
                   </span>
                 </p>
                 <div className="product-rating">
@@ -519,7 +519,7 @@ const Section2 = () => {
                 <a href="product_detail.html" className="product-item-title"><span>Short Sleeve Blouse</span></a>
                 <p className="product-item-price">
                   <span className="product-price-amount">
-                    <span className="product-price-currency-symbol">$</span>59.99
+                    <span className="product-price-currency-symbol">Rs</span>599
                   </span>
                 </p>
                 <div className="product-rating">
@@ -562,7 +562,7 @@ const Section2 = () => {
                 <a href="product_detail.html" className="product-item-title"><span>Short Sleeve Blouse</span></a>
                 <p className="product-item-price">
                   <span className="product-price-amount">
-                    <span className="product-price-currency-symbol">$</span>59.99
+                    <span className="product-price-currency-symbol">Rs</span>599
                   </span>
                 </p>
                 <div className="product-rating">
@@ -605,7 +605,7 @@ const Section2 = () => {
                 <a href="product_detail.html" className="product-item-title"><span>Short Sleeve Blouse</span></a>
                 <p className="product-item-price">
                   <span className="product-price-amount">
-                    <span className="product-price-currency-symbol">$</span>59.99
+                    <span className="product-price-currency-symbol">Rs</span>999
                   </span>
                 </p>
                 <div className="product-rating">
@@ -648,7 +648,7 @@ const Section2 = () => {
                 <a href="product_detail.html" className="product-item-title"><span>Short Sleeve Blouse</span></a>
                 <p className="product-item-price">
                   <span className="product-price-amount">
-                    <span className="product-price-currency-symbol">$</span>59.99
+                    <span className="product-price-currency-symbol">Rs</span>599
                   </span>
                 </p>
                 <div className="product-rating">
@@ -691,7 +691,7 @@ const Section2 = () => {
                 <a href="product_detail.html" className="product-item-title"><span>Short Sleeve Blouse</span></a>
                 <p className="product-item-price">
                   <span className="product-price-amount">
-                    <span className="product-price-currency-symbol">$</span>59.99
+                    <span className="product-price-currency-symbol">Rs</span>59.99
                   </span>
                 </p>
                 <div className="product-rating">
@@ -734,7 +734,7 @@ const Section2 = () => {
                 <a href="product_detail.html" className="product-item-title"><span>Short Sleeve Blouse</span></a>
                 <p className="product-item-price">
                   <span className="product-price-amount">
-                    <span className="product-price-currency-symbol">$</span>59.99
+                    <span className="product-price-currency-symbol">Rs</span>59.99
                   </span>
                 </p>
                 <div className="product-rating">
@@ -777,7 +777,7 @@ const Section2 = () => {
                 <a href="product_detail.html" className="product-item-title"><span>Short Sleeve Blouse</span></a>
                 <p className="product-item-price">
                   <span className="product-price-amount">
-                    <span className="product-price-currency-symbol">$</span>59.99
+                    <span className="product-price-currency-symbol">Rs</span>59.99
                   </span>
                 </p>
                 <div className="product-rating">
@@ -820,7 +820,7 @@ const Section2 = () => {
                 <a href="product_detail.html" className="product-item-title"><span>Short Sleeve Blouse</span></a>
                 <p className="product-item-price">
                   <span className="product-price-amount">
-                    <span className="product-price-currency-symbol">$</span>59.99
+                    <span className="product-price-currency-symbol">Rs</span>59.99
                   </span>
                 </p>
                 <div className="product-rating">
@@ -863,7 +863,7 @@ const Section2 = () => {
                 <a href="product_detail.html" className="product-item-title"><span>Short Sleeve Blouse</span></a>
                 <p className="product-item-price">
                   <span className="product-price-amount">
-                    <span className="product-price-currency-symbol">$</span>59.99
+                    <span className="product-price-currency-symbol">Rs</span>59.99
                   </span>
                 </p>
                 <div className="product-rating">
@@ -1064,7 +1064,7 @@ const Section2 = () => {
                     <a className="product-item-title" href="product_detail.html">Women Short Sleeve Blouse</a>
                     <p className="product-item-price">
                       <span className="product-price-amount">
-                        <span className="product-price-currency-symbol">$</span>59.99
+                        <span className="product-price-currency-symbol">Rs</span>59.99
                       </span>
                     </p>
                     <div className="product-rating">
@@ -1084,7 +1084,7 @@ const Section2 = () => {
                     <a className="product-item-title" href="product_detail.html">Man Short Sleeve Blouse</a>
                     <p className="product-item-price">
                       <span className="product-price-amount">
-                        <span className="product-price-currency-symbol">$</span>59.99
+                        <span className="product-price-currency-symbol">Rs</span>59.99
                       </span>
                     </p>
                     <div className="product-rating">
@@ -1104,11 +1104,11 @@ const Section2 = () => {
                     <a className="product-item-title" href="product_detail.html">Man Short Sleeve Blouse</a>
                     <p className="product-item-price">
                       <span className="product-price-amount">
-                        <span><span className="product-price-currency-symbol">$</span>59.99</span>
+                        <span><span className="product-price-currency-symbol">Rs</span>599</span>
                       </span>
                       –
                       <span className="product-price-amount">
-                        <span><span className="product-price-currency-symbol">$</span>84.99</span>
+                        <span><span className="product-price-currency-symbol">Rs</span>899</span>
                       </span>
                     </p>
                     <div className="product-rating">
