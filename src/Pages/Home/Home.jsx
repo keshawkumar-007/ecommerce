@@ -13,7 +13,7 @@ const Home = () => {
       <div className="promotion-box">
         <div className="container-fluid">
           <p className="promotion-text">
-            Free Shipping on all orders over $100!
+            Free Shipping on all orders over Rs 500!
             <a className="link" href="#">
               Shop Now
             </a>
@@ -29,7 +29,7 @@ const Home = () => {
         <Section2 />
         <Section3 />
         <Section4 />
-        <Section5 />
+        {/* <Section5 /> */}
       </div>
       <Footer />
     </div>

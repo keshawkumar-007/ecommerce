@@ -8,12 +8,9 @@ const Footer = () => {
     <div className="container">
       <div className="row">
         <div className="footer-widget col-lg-3 col-12 mb-lg-0 mb-4 pr-lg-4">
-          <img className="footer-logo mb-4" src="img/logo--light.png" alt="Mullar" />
-          <p>Mazaar is a Mulltipurpose Ecommerce Template, The spread of computers and layout programmes thus made dummy text better known.</p>
-          <ul>
-            <li><i className="fa fa-phone" /><span>+42 (0) 123 456 7890</span></li>
-            <li><i className="fa fa-envelope-open" /><span>sales@mazaar.com</span></li>
-          </ul>
+          {/* <img className="footer-logo mb-4" src="img/logo--light.png" alt="Mullar" /> */}
+          <p>Keshaw is a Mulltipurpose Ecommerce Template, The spread of computers and layout programmes thus made dummy text better known.</p>
+          
         </div>
         <div className="footer-widget col-sm-4 col-md-4 col-lg-2 col-12 mb-lg-0 mb-4">
           <h6 className="footer-widget-title">Information</h6>
@@ -78,18 +75,7 @@ const Footer = () => {
     </div>
   </section>
   {/*Footer Copyright Bar*/}
-  <section className="footer-bottom-area">
-    <div className="container">
-      <div className="row">
-        <div className="col-md-6 text-center text-md-left">
-          <p className="footer-copyright">© 2018 Mazaar Shop, Template by <a href="http://nileforest.com/" target="_blank">Nileforest</a></p>
-        </div>
-        <div className="col-md-6 text-center text-md-right">
-          <img src="img/payment_logos.png" alt="payment logos" />
-        </div>
-      </div>
-    </div>
-  </section>
+ 
 </footer>
 
   )

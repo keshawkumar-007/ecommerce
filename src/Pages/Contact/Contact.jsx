@@ -67,7 +67,7 @@ const Contact = () => {
               </p>
             </div>
             <div className="form-field-wrapper">
-              <label>Mazaar Ltd</label>
+              <label>Keshaw Ltd</label>
               <p>
                 389 Shady Ave.Winston Salem,<br />
                 NC 27103
@@ -76,7 +76,7 @@ const Contact = () => {
             <div className="form-field-wrapper">
               <label>Contact Information</label>
               <p>
-                <i className="ti-email left" />info@mazaarshop.com<br />
+                <i className="ti-email left" />info@keshaw.com<br />
                 <i className="ti-headphone-alt left" />+74 5 9378 6234
               </p>
             </div>

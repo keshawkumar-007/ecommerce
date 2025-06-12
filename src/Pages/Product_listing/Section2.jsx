@@ -1058,7 +1058,7 @@ const Section2 = () => {
                 {/*Item*/}
                 <li className="product-item">
                   <a className="product-item-img">
-                    <img src="img/products/07/01.jpg" alt="Mazaar" />
+                    <img src="img/products/07/01.jpg" alt="Keshaw" />
                   </a>
                   <div className="product-item-content">
                     <a className="product-item-title" href="product_detail.html">Women Short Sleeve Blouse</a>
@@ -1078,7 +1078,7 @@ const Section2 = () => {
                 {/*Item*/}
                 <li className="product-item">
                   <a className="product-item-img">
-                    <img src="img/products/08/01.jpg" alt="Mazaar" />
+                    <img src="img/products/08/01.jpg" alt="Keshaw" />
                   </a>
                   <div className="product-item-content">
                     <a className="product-item-title" href="product_detail.html">Man Short Sleeve Blouse</a>
@@ -1098,7 +1098,7 @@ const Section2 = () => {
                 {/*Item*/}
                 <li className="product-item">
                   <a className="product-item-img">
-                    <img src="img/products/09/01.jpg" alt="Mazaar" />
+                    <img src="img/products/09/01.jpg" alt="Keshaw" />
                   </a>
                   <div className="product-item-content">
                     <a className="product-item-title" href="product_detail.html">Man Short Sleeve Blouse</a>

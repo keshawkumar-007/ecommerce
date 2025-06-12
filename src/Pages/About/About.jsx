@@ -34,8 +34,8 @@ const About = () => {
       <div className="row">
         <div className="col-sm-12 col-md-7 col-lg-6 d-flex mb-sm-5">
           <div className="align-self-center">
-            <h2>Welcome to Mazaar Store!</h2>
-            <p className="large">Mazaar Shop is a premium HTML template designed and develoved from the ground up with the sole purpose of helping you create an astonishing, the beautiful and user friendly website that will boost your product’s sales.</p>
+            <h2>Welcome to Keshaw Store!</h2>
+            <p className="large">Keshaw Shop is a premium HTML template designed and develoved from the ground up with the sole purpose of helping you create an astonishing, the beautiful and user friendly website that will boost your product’s sales.</p>
             <p className="color--dark text--bold">The theme design package provides a complete Ecommerce theme set for your online store according to your desired theme. This includes all Ecommerce themes that are required for your online store's successful implementation.</p>
             <a href="#" className="btn btn--primary space-t--1">Shop Now</a>
           </div>
@@ -52,7 +52,7 @@ const About = () => {
     <div className="container">
       {/*Title*/}
       <div className="page-head">
-        <h2 className="page-title">Mazaar Team Members</h2>
+        <h2 className="page-title">Keshaw Team Members</h2>
       </div>
       {/*End Title*/}
       {/*Team Slider*/}

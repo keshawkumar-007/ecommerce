@@ -9,7 +9,7 @@ const Section3 = () => {
       <div className="container">
         <div className="page-head">
           <span className="page-sub-title">Trending Items</span>
-          <h2 className="page-title">Featured Product</h2>
+          <h2 className="page-title">Summer Collection</h2>
         </div>
       </div>
       <div className="container">
@@ -68,8 +68,8 @@ const Section3 = () => {
                 </a>
                 <p className="product-item-price">
                   <span className="product-price-amount">
-                    <span className="product-price-currency-symbol">$</span>
-                    59.99
+                    <span className="product-price-currency-symbol"> Rs </span>
+                    500
                   </span>
                 </p>
                 <div className="product-rating">
@@ -149,11 +149,11 @@ const Section3 = () => {
                 <p className="product-item-price">
                   <span className="product-price-amount">
                     <del>
-                      <span className="product-price-currency-symbol">$</span>
-                      59.99
+                      <span className="product-price-currency-symbol">Rs</span>
+                      500
                     </del>
                     <ins>
-                      <span className="product-price-currency-symbol">$</span>
+                      <span className="product-price-currency-symbol">Rs</span>
                       39.99
                     </ins>
                   </span>
@@ -235,14 +235,14 @@ const Section3 = () => {
                 <p className="product-item-price">
                   <span className="product-price-amount">
                     <span>
-                      <span className="product-price-currency-symbol">$</span>
-                      59.99
+                      <span className="product-price-currency-symbol">Rs</span>
+                      500
                     </span>
                   </span>
                   –
                   <span className="product-price-amount">
                     <span>
-                      <span className="product-price-currency-symbol">$</span>
+                      <span className="product-price-currency-symbol">Rs</span>
                       84.99
                     </span>
                   </span>
@@ -323,8 +323,8 @@ const Section3 = () => {
                 </a>
                 <p className="product-item-price">
                   <span className="product-price-amount">
-                    <span className="product-price-currency-symbol">$</span>
-                    59.99
+                    <span className="product-price-currency-symbol">Rs</span>
+                    500
                   </span>
                 </p>
                 <div className="product-rating">
@@ -403,8 +403,8 @@ const Section3 = () => {
                 </a>
                 <p className="product-item-price">
                   <span className="product-price-amount">
-                    <span className="product-price-currency-symbol">$</span>
-                    59.99
+                    <span className="product-price-currency-symbol">Rs</span>
+                    500
                   </span>
                 </p>
                 <div className="product-rating">
@@ -484,11 +484,11 @@ const Section3 = () => {
                 <p className="product-item-price">
                   <span className="product-price-amount">
                     <del>
-                      <span className="product-price-currency-symbol">$</span>
-                      59.99
+                      <span className="product-price-currency-symbol">Rs</span>
+                      500
                     </del>
                     <ins>
-                      <span className="product-price-currency-symbol">$</span>
+                      <span className="product-price-currency-symbol">Rs</span>
                       39.99
                     </ins>
                   </span>
@@ -569,8 +569,8 @@ const Section3 = () => {
                 </a>
                 <p className="product-item-price">
                   <span className="product-price-amount">
-                    <span className="product-price-currency-symbol">$</span>
-                    59.99
+                    <span className="product-price-currency-symbol">Rs</span>
+                    500
                   </span>
                 </p>
                 <div className="product-rating">
@@ -650,15 +650,15 @@ const Section3 = () => {
                 <p className="product-item-price">
                   <span className="product-price-amount">
                     <span>
-                      <span className="product-price-currency-symbol">$</span>
-                      59.99
+                      <span className="product-price-currency-symbol">Rs</span>
+                      500
                     </span>
                   </span>
                   –
                   <span className="product-price-amount">
                     <span>
-                      <span className="product-price-currency-symbol">$</span>
-                      84.99
+                      <span className="product-price-currency-symbol">Rs</span>
+                      400
                     </span>
                   </span>
                 </p>

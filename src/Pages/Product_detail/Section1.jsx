@@ -18,19 +18,19 @@ const Section1 = () => {
                     className="product-gallery-image mfp-gallery-popup-link"
                     data-mfp-src="img/products/13/01.jpg"
                   >
-                    <img src={activeimg} alt="mazaar" />
+                    <img src={activeimg} alt="Keshaw" />
                   </div>
                   {/* <div className="product-gallery-image mfp-gallery-popup-link" data-mfp-src="img/products/13/02.jpg">
-                <img src="img/products/13/02.jpg" alt="mazaar" />
+                <img src="img/products/13/02.jpg" alt="Keshaw" />
               </div>
               <div className="product-gallery-image mfp-gallery-popup-link" data-mfp-src="img/products/13/03.jpg">
-                <img src="img/products/13/03.jpg" alt="mazaar" />
+                <img src="img/products/13/03.jpg" alt="Keshaw" />
               </div>
               <div className="product-gallery-image mfp-gallery-popup-link" data-mfp-src="img/products/13/04.jpg">
-                <img src="img/products/13/04.jpg" alt="mazaar" />
+                <img src="img/products/13/04.jpg" alt="Keshaw" />
               </div>
               <div className="product-gallery-image mfp-gallery-popup-link" data-mfp-src="img/products/13/05.jpg">
-                <img src="img/products/13/05.jpg" alt="mazaar" />
+                <img src="img/products/13/05.jpg" alt="Keshaw" />
               </div> */}
                 </div>
               </div>
@@ -40,31 +40,31 @@ const Section1 = () => {
                     className="product-gallery-image"
                     style={{ padding: "0px 10px 10px 0px" }}
                   >
-                    <img style={{borderBottom:activeimg == "img/products/13/01.jpg" ? '2px solid #27af9a' : ''}} onClick={()=>{setactiveimg('img/products/13/01.jpg')}} src="img/products/13/01.jpg" alt="mazaar" />
+                    <img style={{borderBottom:activeimg == "img/products/13/01.jpg" ? '2px solid #27af9a' : ''}} onClick={()=>{setactiveimg('img/products/13/01.jpg')}} src="img/products/13/01.jpg" alt="Keshaw" />
                   </a>
                   <a
                     className="product-gallery-image"
                     style={{ padding: "0px 10px 10px 0px" }}
                   >
-                    <img style={{borderBottom:activeimg == "img/products/13/02.jpg" ? '2px solid #27af9a' : ''}} onClick={()=>{setactiveimg('img/products/13/02.jpg')}}  src="img/products/13/02.jpg" alt="mazaar" />
+                    <img style={{borderBottom:activeimg == "img/products/13/02.jpg" ? '2px solid #27af9a' : ''}} onClick={()=>{setactiveimg('img/products/13/02.jpg')}}  src="img/products/13/02.jpg" alt="Keshaw" />
                   </a>
                   <a
                     className="product-gallery-image"
                     style={{ padding: "0px 10px 10px 0px" }}
                   >
-                    <img style={{borderBottom:activeimg == "img/products/13/03.jpg" ? '2px solid #27af9a' : ''}} onClick={()=>{setactiveimg('img/products/13/03.jpg')}}  src="img/products/13/03.jpg" alt="mazaar" />
+                    <img style={{borderBottom:activeimg == "img/products/13/03.jpg" ? '2px solid #27af9a' : ''}} onClick={()=>{setactiveimg('img/products/13/03.jpg')}}  src="img/products/13/03.jpg" alt="Keshaw" />
                   </a>
                   <a
                     className="product-gallery-image"
                     style={{ padding: "0px 10px 10px 0px" }}
                   >
-                    <img style={{borderBottom:activeimg == "img/products/13/04.jpg" ? '2px solid #27af9a' : ''}} onClick={()=>{setactiveimg('img/products/13/04.jpg')}}  src="img/products/13/04.jpg" alt="mazaar" />
+                    <img style={{borderBottom:activeimg == "img/products/13/04.jpg" ? '2px solid #27af9a' : ''}} onClick={()=>{setactiveimg('img/products/13/04.jpg')}}  src="img/products/13/04.jpg" alt="Keshaw" />
                   </a>
                   <a
                     className="product-gallery-image"
                     style={{ padding: "0px 10px 10px 0px" }}
                   >
-                    <img style={{borderBottom:activeimg == "img/products/13/05.jpg" ? '2px solid #27af9a' : ''}} onClick={()=>{setactiveimg('img/products/13/05.jpg')}}  src="img/products/13/05.jpg" alt="mazaar" />
+                    <img style={{borderBottom:activeimg == "img/products/13/05.jpg" ? '2px solid #27af9a' : ''}} onClick={()=>{setactiveimg('img/products/13/05.jpg')}}  src="img/products/13/05.jpg" alt="Keshaw" />
                   </a>
                 </div>
               </div>
@@ -73,7 +73,7 @@ const Section1 = () => {
           <div className="col-lg-6 col-md-6 col-12">
             <div className="product-page-content">
               {/*Brand Name*/}
-              {/*<div class="tag brand-name"><a href="#">Mazaar</a></div>*/}
+              {/*<div class="tag brand-name"><a href="#">Keshaw</a></div>*/}
               {/*Product Title*/}
               <h3 className="product-item-title">
                 Man Ruched Floral Applique Tee
