@@ -1,4 +1,4 @@
-# **🛒 Keshaw Shop – eCommerce Frontend**
+# **🛒 Keshaw.Shop – eCommerce Frontend**
 
 Welcome to **Keshaw Shop**, a one-page eCommerce website built with **React**. This is a frontend-only project showcasing a minimal product UI.
 
