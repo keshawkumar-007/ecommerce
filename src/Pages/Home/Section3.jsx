@@ -83,7 +83,7 @@ const Section3 = () => {
                     <span style={{ width: "60%" }} />
                   </div>
                   <a href="#" className="product-rating-count">
-                    <span className="count">3</span> Reviews
+                    <span className="count">399</span> Reviews
                   </a>
                 </div>
                 <p className="product-description">
@@ -154,7 +154,7 @@ const Section3 = () => {
                     </del>
                     <ins>
                       <span className="product-price-currency-symbol">Rs</span>
-                      39.99
+                      399
                     </ins>
                   </span>
                 </p>
@@ -169,7 +169,7 @@ const Section3 = () => {
                     <span style={{ width: "60%" }} />
                   </div>
                   <a href="#" className="product-rating-count">
-                    <span className="count">3</span> Reviews
+                    <span className="count">399</span> Reviews
                   </a>
                 </div>
                 <p className="product-description">
@@ -243,7 +243,7 @@ const Section3 = () => {
                   <span className="product-price-amount">
                     <span>
                       <span className="product-price-currency-symbol">Rs</span>
-                      84.99
+                      849
                     </span>
                   </span>
                 </p>
@@ -258,7 +258,7 @@ const Section3 = () => {
                     <span style={{ width: "60%" }} />
                   </div>
                   <a href="#" className="product-rating-count">
-                    <span className="count">3</span> Reviews
+                    <span className="count">300</span> Reviews
                   </a>
                 </div>
                 <p className="product-description">
@@ -338,7 +338,7 @@ const Section3 = () => {
                     <span style={{ width: "60%" }} />
                   </div>
                   <a href="#" className="product-rating-count">
-                    <span className="count">3</span> Reviews
+                    <span className="count">399</span> Reviews
                   </a>
                 </div>
                 <p className="product-description">
@@ -418,7 +418,7 @@ const Section3 = () => {
                     <span style={{ width: "60%" }} />
                   </div>
                   <a href="#" className="product-rating-count">
-                    <span className="count">3</span> Reviews
+                    <span className="count">399</span> Reviews
                   </a>
                 </div>
                 <p className="product-description">
@@ -489,7 +489,7 @@ const Section3 = () => {
                     </del>
                     <ins>
                       <span className="product-price-currency-symbol">Rs</span>
-                      39.99
+                      399
                     </ins>
                   </span>
                 </p>
@@ -504,7 +504,7 @@ const Section3 = () => {
                     <span style={{ width: "60%" }} />
                   </div>
                   <a href="#" className="product-rating-count">
-                    <span className="count">3</span> Reviews
+                    <span className="count">399</span> Reviews
                   </a>
                 </div>
                 <p className="product-description">
@@ -584,7 +584,7 @@ const Section3 = () => {
                     <span style={{ width: "60%" }} />
                   </div>
                   <a href="#" className="product-rating-count">
-                    <span className="count">3</span> Reviews
+                    <span className="count">399</span> Reviews
                   </a>
                 </div>
                 <p className="product-description">
@@ -673,7 +673,7 @@ const Section3 = () => {
                     <span style={{ width: "60%" }} />
                   </div>
                   <a href="#" className="product-rating-count">
-                    <span className="count">3</span> Reviews
+                    <span className="count">399</span> Reviews
                   </a>
                 </div>
                 <p className="product-description">
